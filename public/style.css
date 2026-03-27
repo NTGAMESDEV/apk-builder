@@ -1,0 +1,22 @@
+body {
+  background: #0f0f1a;
+  color: #fff;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+button {
+  background: linear-gradient(45deg, #6a00ff, #00c3ff);
+  border: none;
+  padding: 10px 20px;
+  margin: 10px;
+  color: white;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+input {
+  padding: 10px;
+  margin: 5px;
+  width: 250px;
+}
